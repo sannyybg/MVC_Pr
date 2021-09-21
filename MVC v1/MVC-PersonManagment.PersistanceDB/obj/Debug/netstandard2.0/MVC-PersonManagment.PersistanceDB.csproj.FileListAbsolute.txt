@@ -1,0 +1,11 @@
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\bin\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.deps.json
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\bin\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\obj\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.AssemblyInfoInputs.cache
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\obj\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.AssemblyInfo.cs
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\bin\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.pdb
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.pdb
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\obj\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.csprojAssemblyReference.cache
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\obj\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.csproj.CopyComplete
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\obj\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.PersistanceDB\obj\Debug\netstandard2.0\MVC-PersonManagment.PersistanceDB.pdb

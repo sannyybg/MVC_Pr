@@ -1,0 +1,28 @@
+﻿@using MVC_PersonManagmeng.ViewModels
+@model PersonViewModel
+
+
+
+
+    <div class="col-lg-6 col-lg-6 col-md-6">
+        <div class="thumbnail">
+            <img src="@Model.Id" alt="">
+            <div class="caption">
+                <h5>
+                    <a>Name: @Model.FirstName</a><br>
+                    <a>Lastname: @Model.LastName</a><br>
+                    <a>Age: @Model.Age</a><br>
+                    <a>Address: @Model.Address</a><br>
+                    <a>Email: @Model.Email</a><br>
+                    <form action="/Person/Update/@Model.Id">
+                         <input type="submit" class="btn btn-danger" value="Edit" />
+                    </form>
+                    
+                </h5>
+            </div>
+        </div>
+    </div>
+
+
+
+

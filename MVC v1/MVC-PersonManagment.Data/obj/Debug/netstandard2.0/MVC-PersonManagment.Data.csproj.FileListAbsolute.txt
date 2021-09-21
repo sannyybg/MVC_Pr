@@ -1,0 +1,11 @@
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\bin\Debug\netstandard2.0\MVC-PersonManagment.Data.deps.json
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\bin\Debug\netstandard2.0\MVC-PersonManagment.Data.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\bin\Debug\netstandard2.0\MVC-PersonManagment.Data.pdb
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.pdb
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.csprojAssemblyReference.cache
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.AssemblyInfoInputs.cache
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.AssemblyInfo.cs
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.csproj.CopyComplete
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Data\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.pdb

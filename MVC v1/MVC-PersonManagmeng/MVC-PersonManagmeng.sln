@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-PersonManagmeng", "MVC-PersonManagmeng.csproj", "{8D96EE50-B02A-4CD5-82F2-E01C281B9695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-PersonManagment.Service", "..\MVC-PersonManagment.Service\MVC-PersonManagment.Service.csproj", "{7DB55BC2-49A1-4C32-8FF1-F4CEE630FE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-PersonManagment.Data.EF", "..\MVC-PersonManagment.Data.EF\MVC-PersonManagment.Data.EF.csproj", "{D6E06E94-3A0F-48C8-9B2B-2353B0560451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-PersonManagment.Data", "..\MVC-PersonManagment.Data\MVC-PersonManagment.Data.csproj", "{497EAE43-6E3B-41C6-8221-6D9AB0E4F68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-PersonManagment.PersistanceDB", "..\MVC-PersonManagment.PersistanceDB\MVC-PersonManagment.PersistanceDB.csproj", "{6011DE5A-67B3-4459-A6A4-D98C9FAF10FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-PersonManagment.Domain", "..\MVC-PersonManagment.Domain\MVC-PersonManagment.Domain.csproj", "{59C2B5F9-FC96-4FA0-B515-490C1A8EEA87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D96EE50-B02A-4CD5-82F2-E01C281B9695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D96EE50-B02A-4CD5-82F2-E01C281B9695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D96EE50-B02A-4CD5-82F2-E01C281B9695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D96EE50-B02A-4CD5-82F2-E01C281B9695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB55BC2-49A1-4C32-8FF1-F4CEE630FE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB55BC2-49A1-4C32-8FF1-F4CEE630FE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB55BC2-49A1-4C32-8FF1-F4CEE630FE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB55BC2-49A1-4C32-8FF1-F4CEE630FE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E06E94-3A0F-48C8-9B2B-2353B0560451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E06E94-3A0F-48C8-9B2B-2353B0560451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E06E94-3A0F-48C8-9B2B-2353B0560451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E06E94-3A0F-48C8-9B2B-2353B0560451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497EAE43-6E3B-41C6-8221-6D9AB0E4F68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497EAE43-6E3B-41C6-8221-6D9AB0E4F68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497EAE43-6E3B-41C6-8221-6D9AB0E4F68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497EAE43-6E3B-41C6-8221-6D9AB0E4F68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6011DE5A-67B3-4459-A6A4-D98C9FAF10FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6011DE5A-67B3-4459-A6A4-D98C9FAF10FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6011DE5A-67B3-4459-A6A4-D98C9FAF10FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6011DE5A-67B3-4459-A6A4-D98C9FAF10FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C2B5F9-FC96-4FA0-B515-490C1A8EEA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C2B5F9-FC96-4FA0-B515-490C1A8EEA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C2B5F9-FC96-4FA0-B515-490C1A8EEA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C2B5F9-FC96-4FA0-B515-490C1A8EEA87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDAE53BA-CBA7-42FA-B4BE-B912400758F1}
+	EndGlobalSection
+EndGlobal

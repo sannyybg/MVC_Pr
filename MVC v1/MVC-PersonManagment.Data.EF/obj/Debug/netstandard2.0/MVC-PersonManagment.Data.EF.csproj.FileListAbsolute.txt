@@ -1,0 +1,13 @@
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\bin\Debug\netstandard2.0\MVC-PersonManagment.Data.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.csprojAssemblyReference.cache
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.AssemblyInfoInputs.cache
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.AssemblyInfo.cs
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\bin\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.deps.json
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\bin\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\bin\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.pdb
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\bin\Debug\netstandard2.0\MVC-PersonManagment.Data.pdb
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.pdb
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.csproj.CopyComplete
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Data.EF\obj\Debug\netstandard2.0\MVC-PersonManagment.Data.EF.pdb

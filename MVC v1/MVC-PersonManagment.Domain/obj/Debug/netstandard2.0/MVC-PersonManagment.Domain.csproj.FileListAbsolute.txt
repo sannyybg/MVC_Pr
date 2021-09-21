@@ -1,0 +1,7 @@
+C:\Users\99555\source\repos\MVC-PersonManagment.Domain\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.deps.json
+C:\Users\99555\source\repos\MVC-PersonManagment.Domain\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Domain\bin\Debug\netstandard2.0\MVC-PersonManagment.Domain.pdb
+C:\Users\99555\source\repos\MVC-PersonManagment.Domain\obj\Debug\netstandard2.0\MVC-PersonManagment.Domain.AssemblyInfoInputs.cache
+C:\Users\99555\source\repos\MVC-PersonManagment.Domain\obj\Debug\netstandard2.0\MVC-PersonManagment.Domain.AssemblyInfo.cs
+C:\Users\99555\source\repos\MVC-PersonManagment.Domain\obj\Debug\netstandard2.0\MVC-PersonManagment.Domain.dll
+C:\Users\99555\source\repos\MVC-PersonManagment.Domain\obj\Debug\netstandard2.0\MVC-PersonManagment.Domain.pdb
